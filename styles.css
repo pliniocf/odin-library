@@ -1,0 +1,56 @@
+* {
+  border-style: solid;
+  border-color: #1e6329;
+}
+
+body {
+  margin: 0;
+}
+
+.addBook {
+  height: 50px;
+  width: 200px;
+  font-size: 30px;
+  border-radius: 20px ;
+}
+
+h2 {
+  text-align: center;
+}
+
+.button:hover {
+  box-shadow: 0 10px 20px 0 rgba(0,0,0,0.19);
+  transition-duration: 0.4s;
+}
+
+.cabecalho {
+  text-align: center;
+  background-color: cadetblue;
+}
+
+.corpo {
+  text-align: center;
+  padding: 15px 0 15px 0;
+}
+
+.registrado {
+
+}
+
+.cartaoLivro {
+  width: 280px;
+  padding: 0 10px 0 10px;
+  margin: 0 50px 0 200px;
+  border-style: solid;
+}
+
+.changeReadState {
+  height: 25px;
+  /* width: 95px; */
+  font-size: 15px;
+  border-radius: 20px ;
+}
+
+.centerTextDiv {
+  text-align: center;
+}
